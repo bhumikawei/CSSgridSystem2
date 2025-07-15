@@ -20,3 +20,8 @@
     padding: 12px;
     height: 60px;
 }
+#box-1 {
+    background-color: rgb(107, 107, 153);
+    justify-self: start;
+    align-self: self-start;
+}
